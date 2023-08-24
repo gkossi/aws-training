@@ -25,7 +25,7 @@ TAF : Création d'une VM
 - Insérer le script suivant dans le champ "User date" pour installer directement le serveur web :
 
 #!/bin/bash
-# On va tester voir si le script marche en essayant de créer un répertoire dans /home/ec2-user/
+--#On va tester voir si le script marche en essayant de créer un répertoire dans /home/ec2-user/
 mkdir /home/ec2-user/weberserver
 yum -y install httpd
 systemctl enable httpd
