@@ -1,7 +1,7 @@
 # AWS-TRAINING
 
 -----------------------------------------------------------------------------------------
-# TP N°3/Lab-3 : Création d'une VM
+# TP N°1/Lab-1 : Création d'une VM
 -----------------------------------------------------------------------------------------
 TAF : Création d'une VM
 *Création d'une VM et ensemble des étapes détailées pour savoir comment déployer une VM à l'aide de bonnes pratiques*

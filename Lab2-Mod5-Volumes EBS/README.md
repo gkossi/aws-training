@@ -1,7 +1,7 @@
 # AWS-TRAINING
 
 -----------------------------------------------------------------------------------------
-# TP N°4/Lab-4 : Les volumes EBS (Elastic Block Storage)
+# TP N°2/Lab-2 : Les volumes EBS (Elastic Block Storage)
 -----------------------------------------------------------------------------------------
 Un peu de contexte :
 Lorsqu'on supprime une instance ec2, ca part avec toutes les données stockées sur le disque système. L'objectif est donc d'externaliser le stockage afin de rendre persistente nos données et les protéger.
