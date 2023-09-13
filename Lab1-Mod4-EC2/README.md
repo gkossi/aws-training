@@ -21,7 +21,6 @@
 
   . Activer la protection contre la suppression accidentelle
 
-------------------------------------------------------------------------------------
 - Insérer le script suivant dans le champ "User date" pour installer directement le serveur web :
 
 #!/bin/bash
@@ -38,13 +37,11 @@ systemctl start httpd
 
 echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
 
-------------------------------------------------------------------------------------
 
 NB : Ce script permet d'installer httpd et de créer une page test dans index.html
 
 - Pour la partie disque dur, il faut laisser par défaut la capacité de 8Go
 - Créer par exemple un tag "Name" pour donner un nom à la VM (exemple : WebServer)
-
 - Aller ensuite sur security group  pour le configurer
 
 
